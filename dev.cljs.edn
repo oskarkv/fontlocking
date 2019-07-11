@@ -1,0 +1,4 @@
+{:main fontlocking.core
+ :optimizations :none
+ :pretty-print true
+ :source-map true}
